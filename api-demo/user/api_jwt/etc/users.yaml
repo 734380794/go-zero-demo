@@ -1,0 +1,6 @@
+Name: users
+Host: 127.0.0.1
+Port: 7005
+Auth:
+  AccessSecret: "12345678"
+  AccessExpire: 3600
